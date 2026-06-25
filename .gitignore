@@ -1,0 +1,12 @@
+# Generated decks bring their own node_modules — never commit these
+node_modules/
+dist/
+exports/
+.remote-assets/
+components.d.ts
+
+# OS / editor cruft
+.DS_Store
+*.log
+.idea/
+.vscode/
