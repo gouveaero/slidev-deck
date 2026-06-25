@@ -36,7 +36,7 @@ Copy the skill into your Claude skills directory:
 
 ```bash
 # Claude Code (per-user skills live in ~/.claude/skills/)
-git clone https://github.com/<your-username>/slidev-deck.git
+git clone https://github.com/gouveaero/slidev-deck.git
 cp -R slidev-deck/skills/slidev-deck ~/.claude/skills/
 ```
 
